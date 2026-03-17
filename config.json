@@ -1,0 +1,129 @@
+{
+  "_comment": "You can use 'image' parameter on any link to use a local image instead of favicon. Example: \"image\": \"images/myicon.png\"",
+  "profile": {
+    "name": "hetfli / bleatbrain",
+    "othername": "flin",
+    "birthday": "2001-01-11",
+    "pronouns": "they / she",
+    "bio": "hi! I'm flin, a cat-deer thing (sometimes goat) that does art sometimes and has sex on the internet other times. i'm trying to figure out how to do a grind off of a dick with a tech deck. check out my links!",
+    "photos": [
+      {
+        "url": "images/pfp.jpeg",
+        "tagline": "this is my sona, flin!"
+      },
+      {
+        "url": "images/deza-suit.jpeg",
+        "tagline": "this is a fursuit i have! its a goat-demon-thing named deza!!"
+      }
+    ]
+  },
+  "theme": {
+    "backgroundColor": "#1e1e2e",
+    "cardColor": "#313244",
+    "textColor": "#cdd6f4",
+    "accentColor": "#eba0ac",
+    "linkHoverColor": "#f38ba8"
+  },
+  "sections": [
+    {
+      "title": "🌸 SFW ONLY",
+      "note": "this keeps out any of my NSFW links/references, just to keep a nice degree of separation, save the kids & all","links": [
+        {
+          "title": "sfw links",
+          "url": "https://links.hetfli.art"
+        }
+      ]
+    },
+    {
+      "title": "💰 Support me",
+      "note": "throw me some bones if you like what i do! no pressure :3",
+      "links": [
+        {
+          "title": "kofi",
+          "url": "https://ko-fi.com/hetfli"
+        },
+        {
+          "title": "throne",
+          "url": "https://throne.com/bleatbrained"
+        },
+        {
+          "title": "paypal",
+          "url": "https://www.paypal.biz/fliart"
+        }
+      ]
+    },
+    {
+      "title": "💬 Contact",
+      "note": "dms are preferred through twitter/bsky first! pls have relevant stuff to dm abt if we're not close, i prop wont entertain cold open hi's with no substance :')",
+      "links": [
+        {
+          "title": "discord",
+          "url": "https://discord.com/users/bleaterade"
+        },
+        {
+          "title": "email sfw (hetflii@gmail.com)",
+          "url": "mailto:hetflii@gmail.com",
+          "icon": "📧"
+        },
+        {
+          "title": "email nsfw (bleatbrain@gmail.com)",
+          "url": "mailto:bleatbrain@gmail.com",
+          "icon": "📧"
+        }
+      ]
+    },
+    {
+      "title": "👥 Socials",
+      "note": "mostly active on twitter right now :V",
+      "links": [
+        {
+          "title": "twitter (SFW)",
+          "url": "https://twitter.com/hetfli"
+        },
+        {
+          "title": "twitter (NSFW ART)",
+          "url": "https://twitter.com/hetfleas"
+        },
+        {
+          "title": "twitter (NSFW AD)",
+          "url": "https://twitter.com/bleatbrain"
+        },
+        {
+          "title": "bluesky (SFW)",
+          "url": "https://bsky.app/profile/hetfli.bsky.social"
+        },
+        {
+          "title": "bluesky (NSFW ART)",
+          "url": "https://bsky.app/profile/hetfleas.bsky.social"
+        },
+        {
+          "title": "bluesky (NSFW AD)",
+          "url": "https://bsky.app/profile/bleatbra.in"
+        },
+        {
+          "title": "instagram",
+          "url": "https://instagram.com/bleatbra.in"
+        },
+        {
+          "title": "reddit (SFW/NSFW ART)",
+          "url": "https://www.reddit.com/user/hetfli/"
+        },
+        {
+          "title": "reddit (NSFW AD)",
+          "url": "https://www.reddit.com/user/bleatbrained/"
+        },
+        {
+          "title": "furaffinity (SFW/NSFW ART)",
+          "url": "https://www.furaffinity.net/user/hetfli"
+        },
+        {
+          "title": "youtube",
+          "url": "https://youtube.com/@hetfli"
+        }
+      ]
+    }
+  ],
+  "social": [
+
+  ]
+}

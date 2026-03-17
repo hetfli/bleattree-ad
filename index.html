@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="My personal link tree - all my important links in one place">
+    <title>My Links</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <video autoplay loop muted playsinline id="bg-video">
+        <source src="images/bg2.webm" type="video/webm">
+        <source src="images/bg2.mp4" type="video/mp4">
+    </video>
+    <div class="container">
+        <div class="card">
+            <div class="profile">
+                <div class="avatar-container">
+                    <button id="avatar-prev" class="avatar-nav avatar-nav-prev" aria-label="Previous photo">‹</button>
+                    <img id="avatar" src="" alt="Profile picture" class="avatar">
+                    <button id="avatar-next" class="avatar-nav avatar-nav-next" aria-label="Next photo">›</button>
+                </div>
+                <h1 id="name" class="name">Loading...</h1>
+                <div id="profile-info" class="profile-info"></div>
+                <p id="bio" class="bio"></p>
+            </div>
+
+            <div id="links-container" class="links">
+                <!-- Links will be dynamically loaded here -->
+            </div>
+
+            <div id="social-container" class="social">
+                <!-- Social links will be dynamically loaded here -->
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>woof :3</p>
+        </footer>
+    </div>
+
+    <div id="photo-modal" class="modal">
+        <button id="modal-prev" class="modal-nav modal-nav-prev" aria-label="Previous photo">‹</button>
+        <div class="modal-content">
+            <button id="modal-close" class="modal-close" aria-label="Close">&times;</button>
+            <img id="modal-image" src="" alt="Expanded profile picture" class="modal-image">
+            <p id="modal-tagline" class="modal-tagline"></p>
+        </div>
+        <button id="modal-next" class="modal-nav modal-nav-next" aria-label="Next photo">›</button>
+    </div>
+
+    <audio id="cat-sound" preload="auto">
+        <source src="cat.mp3" type="audio/mpeg">
+    </audio>
+
+    <script src="app.js"></script>
+    <script src="oneko.js"></script>
+</body>
+</html>
